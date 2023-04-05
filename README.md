@@ -21,3 +21,6 @@
 * THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 * WHEN I click on the links in the Table of Contents
 * THEN I am taken to the corresponding section of the README
+
+
+![image](https://user-images.githubusercontent.com/110136650/229979275-bd9b965a-8094-452b-8bb8-8f55fc63cb57.png)
