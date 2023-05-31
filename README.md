@@ -23,7 +23,7 @@
 * THEN I am taken to the corresponding section of the README
 
     
-    * [Installation](##User Story)
+    * [Installation](#User Story)
     * [Usage](#AcceptanceCriteria)
     * [Credits](#Credits)
     * [License](#License)
