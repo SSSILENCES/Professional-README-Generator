@@ -1,6 +1,6 @@
 # Professional-README-Generator
 ## User Story
-
+# installation
 * AS A developer
 * I WANT a README generator
 * SO THAT I can quickly create a professional README for a new project
@@ -20,7 +20,7 @@
 * WHEN I enter my email address
 * THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 * WHEN I click on the links in the Table of Contents
-# installation
+
 * [Installation](#installation)
     * [Usage](#usage)
     * [Credits](#credits)
