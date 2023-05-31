@@ -20,6 +20,11 @@
 * WHEN I enter my email address
 * THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 * WHEN I click on the links in the Table of Contents
+#installation
+* [Installation](#installation)
+    * [Usage](#usage)
+    * [Credits](#credits)
+    * [License](#license)
 * THEN I am taken to the corresponding section of the README
 
 ![image](https://user-images.githubusercontent.com/110136650/229979343-b5379eac-726e-4dcf-abf0-1fd5c7c181c8.png)
