@@ -22,6 +22,6 @@
 * WHEN I click on the links in the Table of Contents
 * THEN I am taken to the corresponding section of the README
 
-Video Url ('https://drive.google.com/file/d/14H77fRJPa6K_3TTCLTO1FF-GVe0Hddfm/view')
+Video Guide Url ('https://drive.google.com/file/d/14H77fRJPa6K_3TTCLTO1FF-GVe0Hddfm/view')
 ![image](https://user-images.githubusercontent.com/110136650/229979343-b5379eac-726e-4dcf-abf0-1fd5c7c181c8.png)
 
