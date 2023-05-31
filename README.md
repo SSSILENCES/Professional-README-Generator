@@ -5,7 +5,7 @@
 * I WANT a README generator
 * SO THAT I can quickly create a professional README for a new project
 
-## Acceptance Criteria
+## AcceptanceCriteria
  * GIVEN a command-line application that accepts user input
  * WHEN I am prompted for information about my application repository
  * THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -22,5 +22,10 @@
 * WHEN I click on the links in the Table of Contents
 * THEN I am taken to the corresponding section of the README
 
+    
+    * [Installation](##User Story)
+    * [Usage](#AcceptanceCriteria)
+    * [Credits](#Credits)
+    * [License](#License)
 ![image](https://user-images.githubusercontent.com/110136650/229979343-b5379eac-726e-4dcf-abf0-1fd5c7c181c8.png)
 
